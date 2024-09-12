@@ -9,7 +9,7 @@ import plotly.express as px
 # Page configuration
 st.set_page_config(
     page_title="ILIGAN SMART CIRCULAR ECONOMY",
-    page_icon="🏂",
+    page_icon="🌱",
     layout="wide",
     initial_sidebar_state="expanded")
 
